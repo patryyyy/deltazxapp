@@ -1,0 +1,9 @@
+{
+    "homepage": "https://github.com/patryyyy/MultipleOfTen_Dart",
+    "description": "输入一个数(>0),可以计算小于或等于此数的10的倍数有哪些,总个数,以及总和(使用dart重新实现)",
+    "license":"MIT",
+    "version": "1.1.1",
+    "url":"https://gitee.com/Patryyyy/MultipleOfTen_Dart/releases/download/v1.1.1/multipleoften_dart.exe",
+    "hash": "a1d8a1059b9a8ec9ab259693de835245f95faab9f55354213712d84aaceceb96",
+    "bin": "multipleoften_dart.exe"
+}
